@@ -6,34 +6,35 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 ## 🔬 Research
 
-- **[Fully Autonomous Programming with Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:d1gkVwhDpl0C)**
-- **[Towards Effective Patient Simulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:u5HHmVD_uO8C)**
-- **[Neurogenetic Programming Framework for Explainable RL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:UeHWp8X0CEIC)** 
-- **[BF++: A Language for General-Purpose Neural Program Synthesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:2osOgNQ5qMEC)** 
+- **[Fully Autonomous Programming with Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:zYLM7Y9cAGgC)**
+- **[Towards Effective Patient Simulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:IjCSPb-OGe4C)**
+- **[Neurogenetic Programming Framework for Explainable RL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:2osOgNQ5qMEC)** 
+- **[BF++: A Language for General-Purpose Neural Program Synthesis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:9yKSN-GCB0IC)** 
 
 [Full list on Google Scholar →](https://scholar.google.com/citations?user=tpB0Uw8AAAAJ)
 
 ## 🛠️ Open source projects
 
-### 🤖 AI & LLMs
+### 🤖 LLMs & Program Synthesis
 
 | Project | What it does |
 |---|---|
 | [**rapbench**](https://github.com/vadim0x60/rapbench) | LLM evaluation via rap battles — the benchmark to end all benchmarks |
 | [**keeptalking**](https://github.com/vadim0x60/keeptalking) | The LLM library OpenAI should have made |
 | [**perplexity-for-sheets**](https://github.com/vadim0x60/perplexity-for-sheets) | Perplexity for Google Sheets |
-| [**fizzbuzzlm**](https://github.com/vadim0x60/fizzbuzzlm) | Searching for the best way to FizzBuzz |
-| [**awesome-artificial-humour**](https://github.com/vadim0x60/awesome-artificial-humour) | A curated list of great examples of AI-driven humour |
-| [**speedformers**](https://github.com/philips-labs/speedformers) | 20x faster huggingface transformers inference
-
-### 🧬 Program Synthesis & Deep Learning
-
-| Project | What it does |
-|---|---|
 | [**seidr**](https://github.com/vadim0x60/seidr) | A multi-agent research framework for AI-assisted program synthesis |
+| [**fizzbuzzlm**](https://github.com/vadim0x60/fizzbuzzlm) | Searching for the best way to FizzBuzz |
 | [**cibi**](https://github.com/vadim0x60/cibi) | Reinforcement learning via BF++ coding agents |
 | [**programlib**](https://github.com/vadim0x60/programlib) | Programs as Objects |
 | [**autoencoderopt**](https://github.com/vadim0x60/autoencoderopt) | Autoencoders as tools for program synthesis |
+| [**awesome-artificial-humour**](https://github.com/vadim0x60/awesome-artificial-humour) | A curated list of great examples of AI-driven humour |
+
+### 🧬 Deep Learning & ML Building Blocks
+
+| Project | What it does |
+|---|---|
+| [**speedformers**](https://github.com/philips-labs/speedformers) | 20x faster huggingface transformers inference |
+| [**bpemb-server**](https://github.com/vadim0x60/bpemb-server) | A minimalistic server that embeds texts using byte-pair embedding |
 | [**wakesleep**](https://github.com/vadim0x60/wakesleep) | The wake-sleep algorithm for unsupervised neural networks |
 | [**IDNN-Replication-Study**](https://github.com/vadim0x60/IDNN-Replication-Study) | Opening the Black Box of Deep Neural Networks with more information |
 | [**evestop**](https://github.com/vadim0x60/evestop) | Early stopping with exponential variance elimination |
@@ -63,7 +64,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 | [**google-cloud-condom**](https://github.com/vadim0x60/google-cloud-condom) | Protect yourself from owing arbitrarily large amounts of money to Google Cloud |
 | [**patcher**](https://github.com/vadim0x60/patcher) | Use REST inside your Clojure programs — represent a patch to a data structure as a data structure |
 | [**mailmarmoset**](https://github.com/vadim0x60/mailmarmoset) | Mailchimp alternative in 31 lines of Python |
-| [**bpemb-server**](https://github.com/vadim0x60/bpemb-server) | A minimalistic server that embeds texts using byte-pair embedding |
+| [**recite**](https://github.com/vadim0x60/recite) | Painlessly swap bibliographies in a LaTeX document |
 | [**readablee**](https://github.com/vadim0x60/readablee) | A chatbot that listens to voice messages so you don't have to |
 | [**deadliner**](https://github.com/vadim0x60/deadliner) | AI conference deadline tracker |
 
