@@ -1,7 +1,5 @@
 # Hey 👋 I'm Vadim
 
-**AI researcher** ∙ **software engineer**
-
 I build things at the intersection of deep learning, program synthesis, and reinforcement learning — and occasionally make LLMs battle-rap each other.
 
 ## 🔬 Research
