@@ -26,6 +26,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 | [**programlib**](https://github.com/vadim0x60/programlib) | Programs as Objects |
 | [**autoencoderopt**](https://github.com/vadim0x60/autoencoderopt) | Autoencoders as tools for program synthesis |
 | [**awesome-artificial-humour**](https://github.com/vadim0x60/awesome-artificial-humour) | A curated list of great examples of AI-driven humour |
+| [**flamp**](https://github.com/vadim0x60/flamp) | Agentic engineering with wings |
 
 ### 🧬 Deep Learning & ML Building Blocks
 
@@ -52,7 +53,6 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 | Project | What it does |
 |---|---|
-| [**RobotRave**](https://github.com/vadim0x60/RobotRave) | Tony Pro humanoid robot dance control — beat-sync and AI-generated dancing |
 | [**reverseviz**](https://github.com/vadim0x60/reverseviz) | Reverse visualizer for music: in Soviet Russia, music dances to you |
 
 ### 🧰 Tools & Libraries
