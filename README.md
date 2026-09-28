@@ -17,6 +17,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 | Project | What it does |
 |---|---|
+| [**OpenAPPA**](https://github.com/archestra-ai/OpenAPPA) | Deterministic information-flow security for agentic applications |
 | [**rapbench**](https://github.com/vadim0x60/rapbench) | LLM evaluation via rap battles — the benchmark to end all benchmarks |
 | [**keeptalking**](https://github.com/vadim0x60/keeptalking) | The LLM library OpenAI should have made |
 | [**perplexity-for-sheets**](https://github.com/vadim0x60/perplexity-for-sheets) | Perplexity for Google Sheets |
@@ -32,6 +33,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 | Project | What it does |
 |---|---|
+| [**growingtransformer**](https://github.com/vadim0x60/growingtransformer) | Experimental transformer that grows its attention heads and depth during training |
 | [**speedformers**](https://github.com/philips-labs/speedformers) | 20x faster huggingface transformers inference |
 | [**bpemb-server**](https://github.com/vadim0x60/bpemb-server) | A minimalistic server that embeds texts using byte-pair embedding |
 | [**wakesleep**](https://github.com/vadim0x60/wakesleep) | The wake-sleep algorithm for unsupervised neural networks |
@@ -70,6 +72,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 | Project | What it does |
 |---|---|
+| [**LeaveNowBot**](https://github.com/vadim0x60/LeaveNowBot) | Telegram bot that tells you when to leave for a destination by public transport |
 | [**best-places**](https://github.com/vadim0x60/best-places) | Google Maps search results, sorted right |
 | [**relayer**](https://github.com/vadim0x60/relayer) | An API that suggests potential stopover cities between a given pair of cities |
 | [**toocold**](https://github.com/vadim0x60/toocold) | Too cold; didn't move. An incredibly simple API to look up how good a city's climate is |
