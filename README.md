@@ -4,6 +4,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 ## 🔬 Research
 
+- **[Deep Program Induction for Personal Healthcare](https://research.tue.nl/en/publications/deep-program-induction-for-personal-healthcare/)** — PhD thesis, TU/e, 2026
 - **[Fully Autonomous Programming with Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:zYLM7Y9cAGgC)**
 - **[Towards Effective Patient Simulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:IjCSPb-OGe4C)**
 - **[Neurogenetic Programming Framework for Explainable RL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:2osOgNQ5qMEC)** 
