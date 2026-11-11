@@ -5,6 +5,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 ## 🔬 Research
 
 - **[Deep Program Induction for Personal Healthcare](https://research.tue.nl/en/publications/deep-program-induction-for-personal-healthcare/)** — PhD thesis, TU/e, 2026
+- **[APPA: Recoverable Information-Flow Control for Real-World LLM Agents](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:_FxGoFyzp5QC)**
 - **[Fully Autonomous Programming with Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:zYLM7Y9cAGgC)**
 - **[Towards Effective Patient Simulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:IjCSPb-OGe4C)**
 - **[Neurogenetic Programming Framework for Explainable RL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tpB0Uw8AAAAJ&citation_for_view=tpB0Uw8AAAAJ:2osOgNQ5qMEC)** 
@@ -73,6 +74,7 @@ I build things at the intersection of deep learning, program synthesis, and rein
 
 | Project | What it does |
 |---|---|
+| [**flights**](https://github.com/vadim0x60/flights) | Flight search across flexible date combinations, with custom filters such as in-flight Wi-Fi quality |
 | [**LeaveNowBot**](https://github.com/vadim0x60/LeaveNowBot) | Telegram bot that tells you when to leave for a destination by public transport |
 | [**best-places**](https://github.com/vadim0x60/best-places) | Google Maps search results, sorted right |
 | [**relayer**](https://github.com/vadim0x60/relayer) | An API that suggests potential stopover cities between a given pair of cities |
